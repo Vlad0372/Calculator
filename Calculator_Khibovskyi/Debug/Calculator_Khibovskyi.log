@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Calculator_Khibovskyi.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(709,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(1112,34): warning C4244: 'argument': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(1120,33): warning C4244: 'argument': conversion from 'wchar_t' to 'char', possible loss of data
+  Form1.cpp
+  Generating Code...
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(38): warning C4715: 'Calculator_Khibovskyi::GetNumber': not all control paths return a value
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(51): warning C4715: 'Calculator_Khibovskyi::GetNumber': not all control paths return a value
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(67): warning C4715: 'Calculator_Khibovskyi::GetFunction': not all control paths return a value
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(74): warning C4715: 'Calculator_Khibovskyi::GetFunction': not all control paths return a value
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(89): warning C4715: 'Calculator_Khibovskyi::GetAction': not all control paths return a value
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(96): warning C4715: 'Calculator_Khibovskyi::GetAction': not all control paths return a value
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(107): warning C4715: 'Calculator_Khibovskyi::GetClearAction': not all control paths return a value
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(112): warning C4715: 'Calculator_Khibovskyi::GetClearAction': not all control paths return a value
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Form1.h(933): warning C4715: 'Calculator_Khibovskyi::Form1::GetResultOfAction': not all control paths return a value
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Calculator_Khibovskyi.vcxproj -> C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Debug\Calculator.exe

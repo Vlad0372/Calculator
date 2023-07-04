@@ -1,0 +1,13 @@
+C:\Users\Ghost\source\repos\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.Form1.resources
+C:\Users\Ghost\source\repos\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.vcxproj.GenerateResource.cache
+C:\Users\Ghost\source\repos\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.vcxprojAssemblyReference.cache
+C:\Users\Ghost\Desktop\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.Form1.resources
+C:\Users\Ghost\Desktop\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.vcxproj.GenerateResource.cache
+C:\Users\Ghost\Desktop\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.vcxprojAssemblyReference.cache
+C:\Users\Ghost\Desktop\Politechnika Opolska 1 rok\cpp_labs\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.vcxproj.AssemblyReference.cache
+C:\Users\Ghost\Desktop\Politechnika Opolska 1 rok\cpp_labs\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.Form1.resources
+C:\Users\Ghost\Desktop\Politechnika Opolska 1 rok\cpp_labs\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.vcxproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.vcxproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.Form1.resources
+C:\Users\Vladislav\Desktop\bru\semestr2\lab9_10\Новая папка\Calculator_Khibovskyi\Calculator_Khibovskyi\Debug\Calculator_Khibovskyi.vcxproj.GenerateResource.cache
